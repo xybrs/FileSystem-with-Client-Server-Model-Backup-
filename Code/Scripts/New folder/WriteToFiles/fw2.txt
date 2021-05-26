@@ -1,0 +1,9 @@
+p
+f
+File2
+w
+Creating and Writing to File2
+2
+W
+e
+e

@@ -1,0 +1,14 @@
+p
+d
+c
+File22
+Root
+p
+f
+File22
+w
+Creating and Writing to File22
+22
+W
+e
+e

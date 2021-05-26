@@ -1,0 +1,21 @@
+p
+d
+c
+File2
+Root
+e
+
+p
+d
+m
+p
+f
+Sfile
+w
+Writing to Sfile from FirstScript
+5
+W
+r
+a
+e
+e

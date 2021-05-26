@@ -1,0 +1,21 @@
+p
+d
+c
+File3
+Root
+e
+
+p
+d
+m
+p
+f
+ALALA
+w
+Writing to ALALA from FourthScript
+80
+W
+r
+a
+e
+e
